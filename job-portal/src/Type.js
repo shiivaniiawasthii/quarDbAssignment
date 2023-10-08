@@ -1,0 +1,15 @@
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGOUT = "LOGOUT";
+export const SET_LANGUAGE = "SET_LANGUAGE";
+export const FETCH_JOBS_REQUEST = 'FETCH_JOBS_REQUEST';
+export const FETCH_JOBS_SUCCESS = 'FETCH_JOBS_SUCCESS';
+export const FETCH_JOBS_FAILURE = 'FETCH_JOBS_FAILURE';
+export const SET_APPLICATION = 'SET_APPLICATION';
+
+
+
+
+
+
+  
